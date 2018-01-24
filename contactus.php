@@ -32,7 +32,7 @@ mail($my_email,$subject,$message,$headers);
 <meta name="robots" content="noarchive">
 <meta name="description" content="">
 <meta name="keywords" content="environmental sustainability, environmental development, environmental protection, environmental sustainability conference, environmental development conference, environmental protection conference, civil engineering conference, climate change conference, global warming conference, environmental risk management conference, health and environmental conference, waste management conference, environmental conference, civil engineering, climate change, global warming, environmental risk management, health and environmental, waste management, environmental">
-<title>ICESDP'18 - Contact Us</title>
+<title>ICESDP'19 - Contact Us</title>
 
 <meta name="handheldfriendly" content="true">
 <meta name="mobileoptimized" content="240">
@@ -61,7 +61,7 @@ mail($my_email,$subject,$message,$headers);
 
 <body>
 <nav id="slide-menu">
-  <h1>ICESDP'18</h1>
+  <h1>ICESDP'19</h1>
   <ul>
     <li><a href="/">Home</a></li>
     <li><a href="../papers">Paper Submissions</a></li>
@@ -103,8 +103,8 @@ mail($my_email,$subject,$message,$headers);
   </div>
 </div>
         <div class="bg">
-          <h1>3<sup>rd</sup> International Conference on Environmental<br>Sustainability, development, and Protection (ICESDP'18)</h1>
-          <p class="subhead">April 8 - 10, 2018 | Budapest, Hungary</p>
+          <h1>4<sup>th</sup> International Conference on Environmental<br>Sustainability, development, and Protection (ICESDP'19)</h1>
+          <p class="subhead">April, 2019 | Rome, Italy</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -119,7 +119,7 @@ mail($my_email,$subject,$message,$headers);
 </div>
 </div><br>
 
-<p class="body" style="text-align:center!important;">ICESDP'18 is part of the <b>3<sup>rd</sup> World Congress on Civil, Structural, and Environmental Engineering (CSEE'18)</b>. For more information about the congress, please visit the website here: <a href="http://cseecongress.com/" class="body-link">www.cseecongress.com</a>.</p>
+<p class="body" style="text-align:center!important;">ICESDP'19 is part of the <b>4<sup>th</sup> World Congress on Civil, Structural, and Environmental Engineering (CSEE'18)</b>. For more information about the congress, please visit the website here: <a href="http://cseecongress.com/" class="body-link">www.cseecongress.com</a>.</p>
         </div>
     </div>
 
@@ -131,8 +131,8 @@ mail($my_email,$subject,$message,$headers);
         </div>
 
         <div class="bg">
-          <h1>3<sup>rd</sup> International Conference on Environmental<br>Sustainability, development, and Protection (ICESDP'18)</h1>
-          <p class="subhead">April 8 - 10, 2018 | Budapest, Hungary</p>
+          <h1>4<sup>th</sup> International Conference on Environmental<br>Sustainability, development, and Protection (ICESDP'19)</h1>
+          <p class="subhead">April, 2019 | Rome, Italy</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -147,7 +147,7 @@ mail($my_email,$subject,$message,$headers);
 </div>
 </div><br>
 
-<p class="body" style="text-align:center!important; color: #FFF!important;">ICSENM'18 is part of the <b>3<sup>rd</sup> World Congress on Civil, Structural, and Environmental Engineering (CSEE'18)</b>.<br>For more information about the congress, please visit the website here: <a href="http://cseecongress.com/" class="body-link">www.cseecongress.com</a>.</p>
+<p class="body" style="text-align:center!important; color: #FFF!important;">ICSENM'18 is part of the <b>4<sup>th</sup> World Congress on Civil, Structural, and Environmental Engineering (CSEE'18)</b>.<br>For more information about the congress, please visit the website here: <a href="http://cseecongress.com/" class="body-link">www.cseecongress.com</a>.</p>
         </div>
         </div> 
       </div>
@@ -161,11 +161,11 @@ mail($my_email,$subject,$message,$headers);
       <div id="main-slider" class="liquid-slider">
     <div>
       <h2 class="title">1</h2>
-      <p class="bold">ICESDP 2018:</p>
-      <p class="body">ICESDP 2018 will  be held in in Budapest, Hungary on April 8 - 10, 2018 at the Novotel Budapest Centrum.</p>
+      <p class="bold">ICESDP 2019:</p>
+      <p class="body">ICESDP 2019 will  be held in in Budapest, Hungary on April 8 - 10, 2018 at the Novotel Budapest Centrum.</p>
 
       <p class="bold">CSEE'18 Workshop</p>
-       <p class="body">As per popular request, the organizing committee has decided to extend the ICESDP'18 conference to three days (April 8 - 10). The new high-level schedule is as follows:</p>
+       <p class="body">As per popular request, the organizing committee has decided to extend the ICESDP'19 conference to three days (April 8 - 10). The new high-level schedule is as follows:</p>
 
       <ul>
         <li>Day 1: Workshop(s) and Registration</li>
@@ -199,7 +199,7 @@ mail($my_email,$subject,$message,$headers);
 <div class="unit unit-s-1 unit-m-1-4-1 unit-l-1-4-1">
   <div class="unit-spacer content">
     <p class="body">We have received your message and we will try our best to get back to you within the next 48 hours.<br><br>
-    Thank you for your interest in ICESDP'18.</p>
+    Thank you for your interest in ICESDP'19.</p>
   </div>
 </div>
 
@@ -286,7 +286,7 @@ mail($my_email,$subject,$message,$headers);
 
   <div class="unit unit-s-1 unit-m-2-3 unit-l-2-3 contact">
   <div class="unit-spacer">
-  <p class="body">For questions or comments regarding ICESDP'18, please fill out the form below:</p>
+  <p class="body">For questions or comments regarding ICESDP'19, please fill out the form below:</p>
 
     <form action="../contactus.php" method="post" enctype="multipart/form-data" name="ContactForm" class="cf">
   <div class="half left cf">
