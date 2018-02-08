@@ -162,7 +162,7 @@ mail($my_email,$subject,$message,$headers);
     <div>
       <h2 class="title">1</h2>
       <p class="bold">ICESDP 2019:</p>
-      <p class="body">ICESDP 2019 will  be held in April, 2019 | Rome, Italy .</p>
+      <p class="body">ICESDP 2019 will  be held in in Budapest, Hungary on April 8 - 10, 2018 at the Novotel Budapest Centrum.</p>
 
       <p class="bold">CSEE'18 Workshop</p>
        <p class="body">As per popular request, the organizing committee has decided to extend the ICESDP'19 conference to three days (April 8 - 10). The new high-level schedule is as follows:</p>
