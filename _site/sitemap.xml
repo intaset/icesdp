@@ -1,114 +1,231 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	  	  
+<!-- www.check-domains.com sitemap generator -->
 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-   <url>
-
-      <loc>http://www.icesdp.com/index.html</loc>
-
-      <lastmod>2017-04-20</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-  <url>
-
-      <loc>http://www.icesdp.com/papers.html</loc>
-
-      <lastmod>2017-04-20</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.icesdp.com/program.html</loc>
-
-      <lastmod>2017-04-20</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.icesdp.com/dates.html</loc>
-
-      <lastmod>2017-04-20</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.icesdp.com/registration.html</loc>
-
-      <lastmod>2017-04-20</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.icesdp.com/committee.html</loc>
-
-      <lastmod>2017-04-20</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.icesdp.com/keynote.html</loc>
-
-      <lastmod>2017-04-20</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.icesdp.com/sponsor.html</loc>
-
-      <lastmod>2017-04-20</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.icesdp.com/venue.html</loc>
-
-      <lastmod>2017-04-20</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.icesdp.com/accommodation.html</loc>
-
-      <lastmod>2017-04-20</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.icesdp.com/symposium.html</loc>
-
-      <lastmod>2017-04-20</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
+<url>
+   <loc>http://2019.icesdp.com/</loc>
+   <lastmod>2018-02-09T20:40:03+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>1.0000</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/past-events/</loc>
+   <lastmod>2018-02-09T20:40:03+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/papers/</loc>
+   <lastmod>2018-02-09T20:40:02+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/program/</loc>
+   <lastmod>2018-02-09T20:40:02+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/dates/</loc>
+   <lastmod>2018-02-09T20:40:03+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/registration/</loc>
+   <lastmod>2018-02-09T20:40:02+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/committee/</loc>
+   <lastmod>2018-02-09T20:40:03+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/keynote/</loc>
+   <lastmod>2018-02-09T20:40:03+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/venue/</loc>
+   <lastmod>2018-02-26T19:48:42+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/accommodation/</loc>
+   <lastmod>2018-02-26T16:46:01+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/sponsor/</loc>
+   <lastmod>2018-02-09T20:40:01+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/symposium/</loc>
+   <lastmod>2018-02-09T20:40:01+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/past-events/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/terms/</loc>
+   <lastmod>2018-02-09T20:40:01+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/sitemap/</loc>
+   <lastmod>2018-02-09T20:40:02+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/ICESDP18_Paper_Template.docx</loc>
+   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/ICESDP18_Extended_Abstract.docx</loc>
+   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/ICESDP18_CopyrightForm.pdf</loc>
+   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/papers/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/program/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/dates/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/registration/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/committee/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/keynote/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/venue/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/accommodation/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/sponsor/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/symposium/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/terms/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/sitemap/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/banktobank/</loc>
+   <lastmod>2018-02-09T20:40:03+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/moneyorder/</loc>
+   <lastmod>2018-02-09T20:40:03+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/paypal/</loc>
+   <lastmod>2018-02-09T20:40:02+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/banktobank/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.3277</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/moneyorder/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.3277</priority>
+</url>
+<url>
+   <loc>http://2019.icesdp.com/paypal/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.3277</priority>
+</url>
 </urlset>
