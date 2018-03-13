@@ -187,7 +187,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 </div>
         <div class="bg">
           <h1>4<sup>th</sup> International Conference on Environmental<br>Sustainability, Development, and Protection (ICESDP'19)</h1>
-          <p class="subhead">April, 2019 | Rome, Italy</p>
+          <p class="subhead">April 7 - 9, 2019 | Rome, Italy</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -215,7 +215,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
         <div class="bg">
           <h1>4<sup>th</sup> International Conference on Environmental<br>Sustainability, Development, and Protection (ICESDP'19)</h1>
-          <p class="subhead">April, 2019 | Rome, Italy</p>
+          <p class="subhead">April 7 - 9, 2019 | Rome, Italy</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -245,7 +245,7 @@ mail($your_email,$your_subject,$message,$your_headers);
     <div>
       <h2 class="title">1</h2>
      <p class="bold">ICESDP 2019:</p>
-      <p class="body">ICESDP 2019 will  be held in April, 2019 | Rome, Italy .</p>
+      <p class="body">ICESDP 2019 will  be held in April 7 - 9, 2019 | Rome, Italy .</p>
 
       <p class="bold">CSEE'18 Workshop</p>
        <p class="body">As per popular request, the organizing committee has decided to extend the ICESDP'19 conference to three days (April 8 - 10). The new high-level schedule is as follows:</p>
