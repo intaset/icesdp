@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule (.*) https://iceptp.com/$1 [R=302,L]
+Redirect 302 / https://iceptp.com/
